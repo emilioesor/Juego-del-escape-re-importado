@@ -1,2 +1,2 @@
-# El juego más dificil del mundo
+# El juego del escape proximamente...
 Juego del escape personalizado por mi, reimportado de code
